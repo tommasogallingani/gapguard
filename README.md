@@ -1,1 +1,1 @@
-# py-template
+# py-template is a Python template for your project
