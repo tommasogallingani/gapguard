@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is designed to facilitate gap and stock modeling. It provides tools for data analysis, forecasting, and inventory management, making it easier to optimize stock levels and improve decision-making processes.
+This project is designed to facilitate code development and delivery
 
 ## Installation
 
